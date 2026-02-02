@@ -1,0 +1,29 @@
+{
+  "subject": {
+    "description": "A young woman with a striking alternative aesthetic, featuring a pale complexion and wet-look dark hair slicked back.",
+    "body": {
+      "physique": "Hyper-pronounced hourglass silhouette with an extreme waist-to-hip ratio. The subject features highly voluminous gluteal development and significant lateral hip flare. The breasts are depicted as very large and substantial in volume, contrasting with an exceptionally narrow, toned midsection.",
+      "anatomical_details": "Clear definition of the external obliques and rectus abdominis. Prominent clavicles and well-defined shoulder structure. Professional anatomical proportions with exaggerated curves.",
+      "tattoos": "Extensive, intricate grayscale ink. A large, detailed neo-traditional chest piece spanning the collarbones. A complex, symmetrical mandala-style tattoo on the abdomen featuring a stylized rabbit motif. Full-sleeve tattoos on the arms with various illustrative elements and solid blackwork sections on the forearm."
+    },
+    "facial_expression": "Playful and confident, looking directly at the camera with a slight squint, one hand raised to the forehead to shade the eyes from sunlight, tongue slightly peeking out."
+  },
+  "wardrobe": {
+    "attire": "A minimalist, dark forest green string bikini made of textured matte fabric. The top is a halter-style with thin spaghetti straps. No logos, brand names, or text present on the fabric.",
+    "negative_constraints": "No text, 'no logos', 'no branding', 'no graphic prints'."
+  },
+  "pose_action": "Standing vertically on a sun-drenched balcony, weight shifted slightly to accentuate the hip curvature. One arm is raised with the hand shielding the eyes, while the other arm rests naturally at the side.",
+  "scene": {
+    "environment": "An upscale outdoor balcony with dark wood plank flooring. A black minimalist metal railing borders the space.",
+    "background": "A blurred urban city skyline under a clear, bright blue sky. Green leafy vines and foliage are visible on the left side, climbing a white building wall with black-framed glass doors.",
+    "reflection_integrity": "Accurate reflection of the subject and the sky in the glass doors behind her; no warping of the balcony railing in the reflections."
+  },
+  "lighting": {
+    "type": "Direct, harsh natural sunlight creating a high-contrast aesthetic.",
+    "details": "High-key lighting with sharp, defined shadows. Golden hour warmth reflecting off the skin, highlighting the texture of the tattoos and the sheen of the wet hair. Specular highlights on the skin surface to emphasize muscle definition."
+  },
+  "camera": {
+    "technical_specs": "9:16 aspect ratio, full-body shot, 35mm wide-angle lens for environmental depth. Sharp focus on the subject with a shallow depth of field (f/2.8) to softly blur the distant city buildings.",
+    "quality": "Professional photography, 8k resolution, raw photo, highly detailed skin texture, no beautify smoothing, no extra limbs, no text."
+  }
+}
